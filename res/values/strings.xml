@@ -1,0 +1,11 @@
+ <resources>
+
+    <string name="app_name">Watcharawalee</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_update">Update</string>
+    <string name="title_activity_main">รวมเพลงวัชราวลี</string>
+    <string name="menu_share">Share...</string>
+    <string name="text_share_subject">รมเพลงวัชราวลี</string>
+    <string name="text_share_body">รวมเพลงจาก วัชราวลี</string>
+
+</resources>
